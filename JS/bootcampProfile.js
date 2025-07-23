@@ -22,7 +22,8 @@
 
 
   // Non-primitive datatype / Object.
-    // array
+    
+  // array
     let skills = ["HTML", "CSS", "JS"]
 
     // Object
