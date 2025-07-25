@@ -11,7 +11,7 @@
     //Boolean
     let isPaid = false  
 
-    // Null(khali) - apne aap me ek value hai, for more better understanding the weather example.
+    // Null(khali) - apne aap me ek value hai, for more better understanding the weather temperature example.
     let favouriteClass = null;
 
     // undefined (Baadme me dekhenge) - Na koi number dala, na kuch dusri value.
