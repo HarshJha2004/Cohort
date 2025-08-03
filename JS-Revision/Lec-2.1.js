@@ -14,11 +14,21 @@ let inFruits = new Array("kiwi", "avacado", "dragon Fruit");
     fruits[0] = "blueberry";
 
 // Methods in array -> to access the methods in array syntax is (arrayname.)and after that list of array methods you seen in your IDE.
-   fruits.push("Green Apple");
-   console.log(fruits);
+    // fruits.push("Green Apple");
+    // console.log(fruits);
 
-   fruits.unshift("orange");
-   console.log(fruits);
-    
-   fruits.sort();
-   console.log(fruits);
+    // fruits.unshift("orange");
+    // console.log(fruits);
+        
+    // fruits.sort();
+    // console.log(fruits);
+
+    let users = ["harsh", "arjun", "rahul"];
+    let newUser = "arjun";
+
+    if(users.includes(newUser)){
+        console.log("user is already Avilable")
+    }
+    else {
+        console.log("New user :) ");
+    }
