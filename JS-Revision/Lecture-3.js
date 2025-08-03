@@ -19,8 +19,9 @@
 
 // use a for loop print all tea names in Uppercase.
    for(let i = 0; i<teas.length; i++){
-    console.log(teas[i].toUpperCase());
+    // console.log(teas[i].toUpperCase());
    }
 
+   
 
     
